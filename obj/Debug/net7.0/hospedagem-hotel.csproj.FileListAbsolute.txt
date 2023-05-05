@@ -1,0 +1,15 @@
+D:\Users\alexa\Desktop\Programacao\dotnet\hospedagem-hotel\obj\Debug\net7.0\hospedagem-hotel.csproj.AssemblyReference.cache
+D:\Users\alexa\Desktop\Programacao\dotnet\hospedagem-hotel\obj\Debug\net7.0\hospedagem-hotel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\alexa\Desktop\Programacao\dotnet\hospedagem-hotel\obj\Debug\net7.0\hospedagem-hotel.AssemblyInfoInputs.cache
+D:\Users\alexa\Desktop\Programacao\dotnet\hospedagem-hotel\obj\Debug\net7.0\hospedagem-hotel.AssemblyInfo.cs
+D:\Users\alexa\Desktop\Programacao\dotnet\hospedagem-hotel\obj\Debug\net7.0\hospedagem-hotel.csproj.CoreCompileInputs.cache
+D:\Users\alexa\Desktop\Programacao\dotnet\hospedagem-hotel\bin\Debug\net7.0\hospedagem-hotel.exe
+D:\Users\alexa\Desktop\Programacao\dotnet\hospedagem-hotel\bin\Debug\net7.0\hospedagem-hotel.deps.json
+D:\Users\alexa\Desktop\Programacao\dotnet\hospedagem-hotel\bin\Debug\net7.0\hospedagem-hotel.runtimeconfig.json
+D:\Users\alexa\Desktop\Programacao\dotnet\hospedagem-hotel\bin\Debug\net7.0\hospedagem-hotel.dll
+D:\Users\alexa\Desktop\Programacao\dotnet\hospedagem-hotel\bin\Debug\net7.0\hospedagem-hotel.pdb
+D:\Users\alexa\Desktop\Programacao\dotnet\hospedagem-hotel\obj\Debug\net7.0\hospedagem-hotel.dll
+D:\Users\alexa\Desktop\Programacao\dotnet\hospedagem-hotel\obj\Debug\net7.0\refint\hospedagem-hotel.dll
+D:\Users\alexa\Desktop\Programacao\dotnet\hospedagem-hotel\obj\Debug\net7.0\hospedagem-hotel.pdb
+D:\Users\alexa\Desktop\Programacao\dotnet\hospedagem-hotel\obj\Debug\net7.0\hospedagem-hotel.genruntimeconfig.cache
+D:\Users\alexa\Desktop\Programacao\dotnet\hospedagem-hotel\obj\Debug\net7.0\ref\hospedagem-hotel.dll
